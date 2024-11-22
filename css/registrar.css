@@ -1,0 +1,28 @@
+#content {
+	width: 100%;
+	overflow-x: hidden;
+}
+h1, h4 {
+	text-align: center;
+}
+.general {
+	padding: 10px;
+	border: 3px solid #77DD77;
+	border-radius: 20px;
+	display: flex;
+	flex-direction: column;
+}
+::placeholder{
+	color: black;
+}
+button {
+	align-items: center;
+	background: #77dd77;
+	border: none;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+#lineCentral{
+	border-left: 3px solid #77DD77;
+}
